@@ -28,7 +28,7 @@ class generator;
             gen2drv_mbox.put(tr);
             #10;
         end
-    endtask //
+    endtask //run
 
 endclass //generator
 
